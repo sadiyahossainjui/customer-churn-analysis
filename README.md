@@ -28,12 +28,6 @@ The goal was to identify factors affecting customer churn and visualize importan
 
 ---
 
-## Dashboard Preview
-
-![Dashboard](dashboard.png)
-
----
-
 ## Key Insights
 - Month-to-month customers churn the most
 - Fiber optic users have higher churn
